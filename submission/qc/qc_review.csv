@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,17,sai_lop,TranThoLam,Tô nhầm motorbike thành three_wheeler
+img_006.jpg,94,thua,TranThoLam,Box ma không có người (tô hư không thành person)
+img_014.jpg,146,sai_vi_tri_kich_thuoc,TranThoLam,Box lệch vị trí hoặc kích thước chưa ôm sát vật thể
+img_031.jpg,452,sai_lop,TranThoLam,Gán nhầm mũ/vật thể nền thành person
+img_035.jpg,497,thua,TranThoLam,Box ma không có người (tô hư không thành person)

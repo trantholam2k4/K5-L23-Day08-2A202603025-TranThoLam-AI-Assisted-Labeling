@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,12,Gán tay hoàn toàn từ đầu 41 đối tượng trên 4 ảnh Gold (~3.0 phút/ảnh)
+batch_review,24,30,Duyệt và chỉnh sửa pre-label 527 đối tượng trên 24 ảnh Batch qua 2 lượt rà bẫy (~1.25 phút/ảnh)
